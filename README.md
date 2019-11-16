@@ -13,6 +13,9 @@ Following these rules, a randomly populated grid will show some interesting beha
 
 ![example](example.gif)
 
+A simple line on the grid will develop into a mesmerizing pattern:
+![example_line](example_line.gif)
+
 
 ### Getting started with this repo
 
