@@ -68,3 +68,4 @@ if __name__ == "__main__":
     
     a = animation.FuncAnimation(fig, animate, init_func=init, blit=True, interval = 5, frames = 1000, repeat = False)
     plt.show()
+    wait = input(" ")
