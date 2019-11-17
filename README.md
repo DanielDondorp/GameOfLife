@@ -29,3 +29,8 @@ In your preferred python environment, install the dependencies
 
 ###### Other dependencies
 For saving gifs of the simulations, [imagemagick](https://imagemagick.org/) is used. On ubuntu this can be installed with apt (`apt-get install imagemagick`), or follow the instructions on the imagemagick website.
+
+###### To Do:
+1. write setup.py
+2. write class that can be used easily outside of jupyter notebook
+3. create small interactive application where users can draw or define startconditions (Either using streamlit or Qt5)
