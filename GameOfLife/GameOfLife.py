@@ -53,8 +53,7 @@ if __name__ == "__main__":
         world[x+5, 50:250] = 1
     fig, ax = plt.subplots(figsize = (10,10))
     img = ax.imshow(world, cmap = "gray")
-    
-    
+        
     def init():
         return img,
     
