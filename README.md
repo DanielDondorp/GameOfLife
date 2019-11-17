@@ -11,10 +11,10 @@ John Conways [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Lif
 
 Following these rules, a randomly populated grid will show some interesting behaviour:
 
-![example](example.gif)
+![example](data/example.gif)
 
 A simple line on the grid will develop into a mesmerizing pattern:
-![example_line](example_line.gif)
+![example_line](data/example_line.gif)
 
 
 ### Getting started with this repo
